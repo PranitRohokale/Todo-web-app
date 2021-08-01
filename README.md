@@ -1,3 +1,10 @@
+
+# Simple Todo Webapp
+
+This Todo web app is created with React.Here,user Has a feature for adding the new Task as well as delted tha completed taks.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
